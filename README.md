@@ -1,0 +1,1 @@
+this repo sucks, heres a batch file that creates the console mode AHK executables automatically using EDITBIN (requires msvc build tools): https://gist.github.com/abnrk/1538e34cd83cade5cbc266469b4a8cce
